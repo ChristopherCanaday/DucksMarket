@@ -1,2 +1,21 @@
-# Design
-  Firstly, we chose to use the nav bar to navigate efficiently around the site. We chose to put it on the top of the webpage to make it aesthetically pleasing and to not take away the symmetry of the page. We chose to make it not scroll with the page so that it would not get in the way or distract from the rest of the page. We chose to put the words on the right because we thought it looked better. We first worked on the Home page and we decided to put a background picture in. We got the picture from Ducks Market's facebook page. We put a black cover over the image and put it in the background. We then put the lines above and under Duck's Market. We moved on to the other pages, but we had a problem reading the words on top of the image. So we put a background behind the words to make it more visible. We then added curves to the background. The next thing we did was add pictures under the information to give a visual representation of the product. After doing all that, we encountered the problem of our background image repeating. So we set it to where it moved with the user. Which gives the illusion that it is still and everything else is scrolling. We next decided that the nav bar wasn't spoofed enough. So we added a hover animation to it with a slight curve to add depth. We chose gray because we felt it went along with the background image. The background image has lots of different colors providing a contrast with the gray. We chose the white font color to contrast with the gray and make it easy to read. We made the home pages words orange because that is what the owner of the company wanted. We chose the font to make it easy to read without it being an eyesore. We used the font Overlock for the paragraphs and sub-titles and we used PT Sans Caption for the titles. 
+# Team Darby- Ben Arnold, Leighanne Dugger, and Christopher Canaday
+
+Duck’s Market is a website created for the company of the same name that sells a wide variety of items. The company has never had any big form of advertising before. We tried to keep uniformity as much as possible to keep the design user friendly.
+
+The website consists of 8 pages: Home, Fireworks, Concrete Statuary, Rugs, Fiesta China, Mexican Clay, About Us, and Contact Us.
+
+# Home:
+This page was the first created. The page started out as a white background with the words Duck’s Market. We eventually figured out how to center the words vertically and horizontally. We set the background of the words to blue which helped show what space the div took up. We then decided to make a navigation bar to allow the user to navigate around the site. Then we decided to add a background image. We chose the background image from their Facebook page and put it in the background. We added the lines above and below the words. Afterwards, we changed the words to orange as the owner prefered it that way, and to make it stand out more.
+
+# About Us:
+We created this page to show the history of the company. We took the same layout from the other pages and transferred it to this one. We then changed the information and added a picture of what the company used to look like. 
+
+# Contact Us:
+We created this page to allow people to contact the business. It includes their email, address, phone number, and Facebook page. It is modeled after the other pages.
+
+# Fireworks:
+We first transferred the navigation bar over from the Home page. We created a div and put the information into it. We made the div have a background of gray to keep uniformity with the gray navigation bar. Then we added the background image from the home page to keep uniformity. After that we added pictures from the Facebook page.
+
+# Concrete Statuary, Fiesta China, Rugs, and Mexican Clay:
+All of these pages were modeled after the fireworks page. The information on each page was changed to their respective subjects. The images were also changed to their respective subjects.
+
