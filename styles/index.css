@@ -48,12 +48,12 @@
   font-size: 35px;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-   background-color: rgb(232,149,41);
+   background-color: white;
 }
 
 .center::before, .center::after {
   content: "";
-  background-color: rgb(232,149,41);
+  background-color: white;
   height: 10px;
   display: block;
   border-radius: 100px;
